@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold">Hello world!</h1>
-      <Button className="mt-4">CLick Me</Button>
+      <Button className="forced-color-adjust-auto">Click Me</Button>
     </>
   );
 }
